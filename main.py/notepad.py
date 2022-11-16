@@ -1,0 +1,1 @@
+f = open("almanca diyaloğu", "xt")
